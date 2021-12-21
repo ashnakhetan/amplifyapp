@@ -1,7 +1,9 @@
 <<<<<<< HEAD
+
 # amplifyapp
-for me and da mim
-=======
+
+# for me and da mim
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> ec54c40db0f6be32bb505c16a8262e7c5884690b
+
+> > > > > > > ec54c40db0f6be32bb505c16a8262e7c5884690b
